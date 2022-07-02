@@ -4,7 +4,6 @@ My name is Sepehr Ebadi
 CE student at IUT
 -----------------------------
 
-*   🤝  I'm open to collaborating on interesting projects as a web and android developer
 
 <a href="https://twitter.com/imsepeh_r" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/imsepeh_r?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
