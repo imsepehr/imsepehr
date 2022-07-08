@@ -16,7 +16,6 @@ CE student at IUT
   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="36" height="36"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/> </a>
-  
   <a href="" target="_blank" rel="noreferrer"> <img  src="https://github.com/file-icons/DevOpicons/blob/master/svg/mysql.svg" alt="SQL Server" width="36" height="36"/> </a>
    
 </p>
