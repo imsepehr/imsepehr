@@ -37,4 +37,3 @@ CE student at IUT
 <a href="https://github.com/imsepehr" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsepehr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=imsepehr&count_private=false&show_icons=true&hide_border=true&theme=github_dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsepehr&count_private=false&theme=github_dark&hide_border=true&layout=compact">
