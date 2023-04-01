@@ -5,7 +5,7 @@ CE student at IUT
 -----------------------------
 
 
-<a href="https://twitter.com/imsepeh_r" target="_blank" rel="noreferrer"><img
+<a href="" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/imsepeh_r?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://github.com/imsepehr" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/imsepehr?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
