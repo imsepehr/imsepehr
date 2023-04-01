@@ -5,7 +5,7 @@ CE student at IUT
 -----------------------------
 
 
-<a href="" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/imsepeh_r" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/imsepeh_r?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://github.com/imsepehr" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/imsepehr?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -24,7 +24,7 @@ CE student at IUT
                   
 <p align="left">
     <a href="https://www.instagram.com/imsepeh_r" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-    <a href="https://t.me/ImAlirewza" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" height="32" width="32" /></a>
+    <a href="https://t.me/imsepeh_r" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" height="32" width="32" /></a>
   <a href="https://www.linkedin.com/in/sepehr1657" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.twitter.com/imsepeh_r" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
   <a href="https://www.github.com/imsepehr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
