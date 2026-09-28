@@ -178,16 +178,8 @@ Continuous hands-on work with real datasets and classical ML techniques.
 <img src="https://img.shields.io/badge/GitHub-imsepehr-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/imsepeh_r">
-<img src="https://img.shields.io/badge/Instagram-imsepeh__r-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://t.me/imsepeh_r">
+<a href="https://t.me/sepriebd">
 <img src="https://img.shields.io/badge/Telegram-imsepeh__r-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/imsepeh_r">
-<img src="https://img.shields.io/badge/X-imsepeh__r-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </div>
