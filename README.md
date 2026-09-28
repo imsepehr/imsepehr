@@ -141,21 +141,15 @@ I'm interested in questions like:
 <div align="center">
 
 <a href="https://github.com/imsepehr">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=imsepehr&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Sepehr's GitHub Stats"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=imsepehr&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&cache_seconds=86400"
+alt="Sepehr's GitHub Stats"/>
 </a>
 
 <a href="https://github.com/imsepehr">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsepehr&layout=donut&langs_count=6&hide_border=true&theme=tokyonight" alt="Most Used Languages"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/imsepehr">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsepehr&layout=pie&langs_count=6&hide_border=true&theme=tokyonight&custom_title=Language%20Distribution" alt="Language Distribution"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsepehr&layout=donut&langs_count=6&hide_border=true&theme=tokyonight&cache_seconds=86400"
+alt="Most Used Languages"/>
 </a>
 
 </div>
