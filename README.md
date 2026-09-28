@@ -2,9 +2,9 @@
 
 # 👋 Hey, I'm Sepehr Ebadi
 
-### `Computer Engineering` → `Machine Learning` → `AI`
+### `Computer Engineering` → `Machine Learning` → `AI Products`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=0891B2&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+AI+Developer;Building+Intelligent+Solutions;Python+%7C+CatBoost+%7C+XGBoost;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=0891B2&center=true&vCenter=true&width=750&lines=Machine+Learning+%7C+AI+Developer;Building+Intelligent+Solutions;Python+%7C+CatBoost+%7C+XGBoost;From+Models+to+Real-World+Products;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
@@ -24,9 +24,11 @@
 
 ## 🧠 About Me
 
-I'm a **Computer Engineering graduate** and currently focused on **Machine Learning and Artificial Intelligence**.
+I'm a **Computer Engineering graduate** focused on **Machine Learning and Artificial Intelligence**, with a strong interest in turning ideas and data into practical intelligent systems.
 
-My journey is centered around learning by building — from data analysis and classical machine learning to developing practical AI-powered applications.
+My journey started with programming and software development and gradually moved toward **data analysis, machine learning, predictive modeling, and AI applications**.
+
+What excites me most is not just training a model — it's understanding a real problem, finding where AI can create value, and turning the solution into something people can actually use.
 
 I'm particularly interested in:
 
@@ -35,10 +37,40 @@ I'm particularly interested in:
 * 🧠 Supervised Learning
 * 🌳 Gradient Boosting & Tree-Based Models
 * 🐍 Python-based ML development
-* 🚀 Turning ML models into practical applications
+* 🚀 AI-powered applications and products
+* 💡 Applying AI to real-world business problems
 * 🔬 Research-driven problem solving
 
-> **My goal:** grow into a strong **Machine Learning Engineer / AI Developer** by building systems that solve real-world problems.
+> **My goal:** become a strong **Machine Learning Engineer / AI Developer** and build AI-powered products that connect technology, real-world problems, and business value.
+
+---
+
+## 💡 From Machine Learning to AI Products
+
+<div align="center">
+
+```mermaid
+flowchart LR
+    A["💡 Real-World Problem"] --> B["📊 Data"]
+    B --> C["🧠 Machine Learning"]
+    C --> D["⚙️ Intelligent System"]
+    D --> E["🚀 AI Product"]
+    E --> F["📈 Business Value"]
+```
+
+</div>
+
+I want to go beyond **"Can I build an accurate model?"**
+
+I'm interested in questions like:
+
+* Can this model solve a meaningful problem?
+* Can it be integrated into a usable product?
+* Can the output support better decisions?
+* Can AI create measurable value for a business?
+* How can a research idea become a practical system?
+
+**That is the direction I want to grow in.**
 
 ---
 
@@ -104,6 +136,34 @@ I'm particularly interested in:
 
 ---
 
+## 📊 My GitHub at a Glance
+
+<div align="center">
+
+<a href="https://github.com/imsepehr">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=imsepehr&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Sepehr's GitHub Stats"/>
+</a>
+
+<a href="https://github.com/imsepehr">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsepehr&layout=donut&langs_count=6&hide_border=true&theme=tokyonight" alt="Most Used Languages"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/imsepehr">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsepehr&layout=pie&langs_count=6&hide_border=true&theme=tokyonight&custom_title=Language%20Distribution" alt="Language Distribution"/>
+</a>
+
+</div>
+
+> **Note:** The language charts represent code distribution across public GitHub repositories; they are not a measure of programming skill.
+
+---
+
 ## 🔬 Featured Research
 
 ### 🐄 Improving Transition Cow Index Accuracy
@@ -112,13 +172,21 @@ I'm particularly interested in:
 
 My main research project focused on improving the prediction of first test-day milk yield using machine learning and applying the results to **Transition Cow Index (TCI)** analysis.
 
-The work was presented at:
+The research was presented at the:
 
 **16th International Conference on Information and Knowledge Technology (IKT), 2025**
 
-<a href="https://github.com/imsepehr">
-<img src="https://img.shields.io/badge/Research-Machine%20Learning-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
+**Authors:** Sepehr Ebadi · Hoda Safaeipour
+
+<p>
+<a href="https://doi.org/10.1109/IKT69652.2025.11626818">
+<img src="https://img.shields.io/badge/📄%20Read%20the%20Paper-IEEE%20Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
 </a>
+
+<a href="https://github.com/imsepehr/Bachelor_Project">
+<img src="https://img.shields.io/badge/💻%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
@@ -166,6 +234,34 @@ Continuous hands-on work with real datasets and classical ML techniques.
 
 ---
 
+## 🎯 What I Want to Build
+
+<div align="center">
+
+|        🧠 AI        | ⚙️ Engineering |    💼 Business   |
+| :-----------------: | :------------: | :--------------: |
+|   Machine Learning  |  Data → Model  |   Real Problems  |
+|    Predictive AI    |   Model → API  | Decision Support |
+| Intelligent Systems |  AI → Product  | Measurable Value |
+
+</div>
+
+I'm especially interested in opportunities where **Machine Learning meets software engineering and business**.
+
+I want to work on products where AI is not just a feature on paper, but a technology that helps users **make better decisions, automate processes, discover insights, or create measurable value.**
+
+---
+
+## 🔭 Currently Exploring
+
+<div align="center">
+
+`Machine Learning` • `AI Engineering` • `Predictive Analytics` • `AI Products` • `Model Deployment` • `Business Applications of AI`
+
+</div>
+
+---
+
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -179,7 +275,7 @@ Continuous hands-on work with real datasets and classical ML techniques.
 </a>
 
 <a href="https://t.me/sepriebd">
-<img src="https://img.shields.io/badge/Telegram-imsepeh__r-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-sepriebd-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 </div>
