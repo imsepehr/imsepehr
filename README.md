@@ -134,29 +134,6 @@ I'm interested in questions like:
 
 </div>
 
----
-
-## 📊 My GitHub at a Glance
-
-<div align="center">
-
-<a href="https://github.com/imsepehr">
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=imsepehr&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&cache_seconds=86400"
-alt="Sepehr's GitHub Stats"/>
-</a>
-
-<a href="https://github.com/imsepehr">
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsepehr&layout=donut&langs_count=6&hide_border=true&theme=tokyonight&cache_seconds=86400"
-alt="Most Used Languages"/>
-</a>
-
-</div>
-
-> **Note:** The language charts represent code distribution across public GitHub repositories; they are not a measure of programming skill.
-
----
 
 ## 🔬 Featured Research
 
