@@ -1,39 +1,261 @@
-My name is Sepehr Ebadi
-===============================
+<div align="center">
 
-CE student at IUT
------------------------------
+# 👋 Hey, I'm Sepehr Ebadi
 
+### `Computer Engineering` → `Machine Learning` → `AI`
 
-<a href="https://www.twitter.com/imsepeh_r" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/imsepeh_r?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://github.com/imsepehr" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/imsepehr?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-                  
-### Skills
-<p align="left">
-            <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="CSharp" /></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="36" height="36"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img  src="https://github.com/file-icons/DevOpicons/blob/master/svg/mysql.svg" alt="SQL Server" width="36" height="36"/> </a>
-   
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=0891B2&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+AI+Developer;Building+Intelligent+Solutions;Python+%7C+CatBoost+%7C+XGBoost;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/imsepehr">
+  <img src="https://img.shields.io/github/followers/imsepehr?label=Followers&style=for-the-badge&logo=github&color=0891b2&labelColor=18181b" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/imsepehr">
+  <img src="https://img.shields.io/github/stars/imsepehr?label=Stars&style=for-the-badge&logo=github&color=0891b2&labelColor=18181b" alt="GitHub stars"/>
+</a>
+<a href="https://www.linkedin.com/in/sepehrebadi/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I'm a **Computer Engineering graduate** and currently focused on **Machine Learning and Artificial Intelligence**.
+
+My journey is centered around learning by building — from data analysis and classical machine learning to developing practical AI-powered applications.
+
+I'm particularly interested in:
+
+* 🤖 Machine Learning & Artificial Intelligence
+* 📊 Data Analysis & Predictive Modeling
+* 🧠 Supervised Learning
+* 🌳 Gradient Boosting & Tree-Based Models
+* 🐍 Python-based ML development
+* 🚀 Turning ML models into practical applications
+* 🔬 Research-driven problem solving
+
+> **My goal:** grow into a strong **Machine Learning Engineer / AI Developer** by building systems that solve real-world problems.
+
+---
+
+## ⚡ What I Work With
+
+<div align="center">
+
+### 💻 Programming & Development
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+<img src="https://skillicons.dev/icons?i=c" height="50" alt="C"/>
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+<img src="https://skillicons.dev/icons?i=cs" height="50" alt="C#"/>
+</a>
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
+</a>
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+</a>
+<a href="https://www.linux.org/">
+<img src="https://skillicons.dev/icons?i=linux,bash" height="50" alt="Linux"/>
+</a>
+
+<br/><br/>
+
+### 🤖 Machine Learning & Data
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
-                    
-### Socials
-                  
-<p align="left">
-    <a href="https://www.instagram.com/imsepeh_r" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-    <a href="https://t.me/imsepeh_r" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" height="32" width="32" /></a>
-  <a href="https://www.linkedin.com/in/sepehr1657" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/imsepeh_r" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-  <a href="https://www.github.com/imsepehr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+
+<p>
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
-### Badges
+### 🗄️ Databases
 
-<b>My GitHub Stats</b>
+<p>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-<a href="https://github.com/imsepehr" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsepehr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 🛠️ Other Technologies
 
-<img src="https://github-readme-stats.vercel.app/api?username=imsepehr&count_private=false&show_icons=true&hide_border=true&theme=github_dark">
+<p>
+<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-Concepts-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-0891B2?style=for-the-badge"/>
+</p>
+
+</div>
+
+---
+
+## 🔬 Featured Research
+
+### 🐄 Improving Transition Cow Index Accuracy
+
+**CatBoost-Based Prediction of First Test-Day Milk Yield**
+
+My main research project focused on improving the prediction of first test-day milk yield using machine learning and applying the results to **Transition Cow Index (TCI)** analysis.
+
+The work was presented at:
+
+**16th International Conference on Information and Knowledge Technology (IKT), 2025**
+
+<a href="https://github.com/imsepehr">
+<img src="https://img.shields.io/badge/Research-Machine%20Learning-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## 🚀 Things I'm Building
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐄 Vahdat ML System
+
+A practical ML application built around a **CatBoost prediction model** for agricultural and dairy analytics.
+
+**Focus:**
+
+* Machine Learning
+* CatBoost
+* Predictive Analytics
+* TCI Analytics
+* FastAPI
+* Data Processing
+* Model Deployment
+
+</td>
+
+<td width="50%">
+
+### 📈 ML Practice
+
+Continuous hands-on work with real datasets and classical ML techniques.
+
+**Focus:**
+
+* Data Cleaning
+* EDA
+* Feature Engineering
+* Regression
+* Classification
+* Model Evaluation
+* Explainable ML
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/imsepehr">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=imsepehr&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Sepehr's GitHub Stats"/>
+</a>
+
+<a href="https://github.com/imsepehr">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsepehr&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+</a>
+
+</div>
+
+---
+
+## 🧩 My Learning Philosophy
+
+<div align="center">
+
+```text
+Learn → Build → Break → Debug → Improve → Repeat
+```
+
+</div>
+
+I believe the fastest way to become a better engineer is not simply consuming tutorials, but **building things, making mistakes, understanding why they happened, and rebuilding them better.**
+
+---
+
+## 🎯 Current Direction
+
+```text
+Computer Engineering
+        │
+        ▼
+   Python & CS
+        │
+        ▼
+ Data Analysis
+        │
+        ▼
+Machine Learning
+        │
+        ├───────────────┐
+        ▼               ▼
+  Model Building    Model Evaluation
+        │               │
+        └───────┬───────┘
+                ▼
+       Real-World ML Systems
+                │
+                ▼
+          AI Engineering
+```
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sepehrebadi/">
+<img src="https://img.shields.io/badge/LinkedIn-Sepehr%20Ebadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/imsepehr">
+<img src="https://img.shields.io/badge/GitHub-imsepehr-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/imsepeh_r">
+<img src="https://img.shields.io/badge/Instagram-imsepeh__r-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://t.me/imsepeh_r">
+<img src="https://img.shields.io/badge/Telegram-imsepeh__r-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/imsepeh_r">
+<img src="https://img.shields.io/badge/X-imsepeh__r-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for stopping by!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=120&section=footer" width="100%"/>
+
+</div>
